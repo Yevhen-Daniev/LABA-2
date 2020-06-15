@@ -1,2 +1,2 @@
 # lb2
-![screenshot](screenshot.jpg "Приклад роботи програми")
+![screenshot](screenshot.png "Приклад роботи програми")
