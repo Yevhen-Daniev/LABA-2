@@ -1,2 +1,2 @@
-# LABA-2
-LABA 2
+# lb2
+![screenshot](screenshot.jpg "Приклад роботи програми")
